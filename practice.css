@@ -1,0 +1,108 @@
+body{
+    font-family: font-family: 'Lobster', cursive;;
+}
+.bannar{
+    background-image:url("images/bk.png") ;
+   
+}
+.bannar1{
+background-image: url(" images/bk1.png");
+}
+h1{ color: aliceblue;
+    font-size: 50px;
+}
+.For-name{
+    color: rgb(255, 21, 255);
+}
+p{ color: aliceblue;
+    font-size: 25px;
+   
+    
+
+}
+h2{ color: aliceblue;
+    font-size: 30px;
+
+}
+.half-width{width: 40%;
+  float: left;
+margin-left: 5%;
+padding-left: 2%;
+}
+.half-width img{
+    width: 80%;
+}
+.half-width1 img{ 
+    width: 40%;}
+    .half-width1 {width: 40%;
+        
+        float: left;
+      margin-left: 5%;
+      padding-left:5 %;
+      }
+      
+b{
+    color: rgb(255, 255, 255);
+   background-color: rgb(0, 179, 250);
+   border-radius: 15px;
+   font-size: larger;
+    
+    
+}
+.link-buttom{ text-decoration: none;
+  
+    
+}
+
+section{ 
+    height: 900px;
+    width: 100%;
+
+}
+.dev{
+    color: rgb(0, 0, 0);
+    background-color: rgb(230, 255, 253);
+}
+
+
+.single-person{ 
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 11px;
+    height:70%;
+  
+}
+p1{color: rgb(255, 255, 255);}
+p6{
+    color: black;
+}
+ 
+
+   
+
+p2{
+   color: aliceblue;
+}
+.bk3{
+    background-image: url("images/bk4.png");
+    height: 800px;
+}
+b1{
+    background-color: rgb(2, 2, 2);
+
+    text-align: bottom ;
+}
+p5{
+    color: black;
+    
+}
+p7{
+    color: black;
+}
+#bord {
+    border-left: 10px rgb(255, 40, 40);
+    
+}
+.link-buttom b:hover{
+    background-color: rgb(255, 0, 221);
+    
+}
